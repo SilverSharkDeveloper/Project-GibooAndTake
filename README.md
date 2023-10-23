@@ -188,15 +188,6 @@
  4. 소개페이지(소개,통계,파트너기관,기부&제안FAQ)<br>
  5. 알림,고객센터<br>
  
-## 백엔드 flow-chart
- <details >
-  <summary style="font-size: 100 px;">flow-chart</summary>
-  
- 
-
-  
-
- </details>
 
 ## ✨ 페이지흐름도
 
